@@ -1,7 +1,7 @@
 **Cython Exercises**
 ====================
 
-This will be a collection of the **Cython Exercises** that I'm doing from the O'Reilly Cython Programming in Python book.
+This will be a collection of the **Cython Exercises** that I'm doing from the O'Reilly Cython: A Guide for Python Programmers book.
 
 Requirements
 ------------
