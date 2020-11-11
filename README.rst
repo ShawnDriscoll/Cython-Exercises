@@ -18,7 +18,7 @@ Requirements
 Warning
 -------
 
-These **Cython Exercises** were written in Python 2.5.
+These **Cython Exercises** were written in Classic Python 2.5.
 
 
 Contact
